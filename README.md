@@ -1,0 +1,1 @@
+Hey, this is a repo for the project. If you need any help with understanding how it works, here's the link to the project prep part of the prework course section : https://learning.flatironschool.com/courses/5461/pages/prework-final-project-prep-part-i-setting-up-your-repo?module_item_id=353315 
