@@ -1,1 +1,14 @@
-Hey, this is a repo for the project. If you need any help with understanding how it works, here's the link to the project prep part of the prework course section : https://learning.flatironschool.com/courses/5461/pages/prework-final-project-prep-part-i-setting-up-your-repo?module_item_id=353315 
+User story:
+    .As a user i would like to      
+        -Insert Events
+	    -Set Default Events(dates) to regular holidays.
+		        -Christmas
+		        -Halloween
+		        -St. Patrick's Day
+		        -etc...
+        -Remove Events
+	            -Remove an event with a press of a button.
+        -Like Events
+	            -Like an event by clicking on a button.
+	            -Should have a like-counter.
+
