@@ -1,0 +1,41 @@
+.body{
+
+}
+
+.calendar{
+    margin: auto;   
+    max-width: 1000px;
+    font-family: serif;
+    font-weight: bold;
+    color: black;
+}
+.month{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    border: 2px solid;
+    background: #ffffe0;
+}
+
+table, tr, td{
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+    font-size: 27px;
+    border-collapse: collapse;
+    border:3px solid black;
+    font-family: sans-serif;
+    padding: 50px;
+}
+
+th{
+    background: #ADD8E6;    
+}
+
+td{
+    background: #DCAE96;
+}
+
+td:hover{
+    background: whitesmoke;
+}
