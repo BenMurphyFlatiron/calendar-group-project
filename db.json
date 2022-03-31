@@ -1,0 +1,36 @@
+{
+  "Holidays": [
+    {
+      "day": 1,
+      "holiday": "April Fools' Day"
+    },
+    {
+      "day": 8,
+      "holiday": "National Zoo Lovers Day"
+    },
+    {
+      "day": 9,
+      "holiday": "National Unicorn Day"
+    },
+    {
+      "day": 13,
+      "holiday": "Thomas Jefferson Day"
+    },
+    {
+      "day": 15,
+      "holiday": "Passover"
+    },
+    {
+      "day": 17,
+      "holiday": "Easter"
+    },
+    {
+      "day": 27,
+      "holiday": "YomHaShoah"
+    },
+    {
+      "day": 28,
+      "holiday": "Denim Day"
+    }
+  ]
+}
